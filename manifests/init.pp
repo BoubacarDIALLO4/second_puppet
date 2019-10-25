@@ -5,7 +5,13 @@ node default {
 		content => 'Hello world',
 
 	}
+	package {'apache2':
+		ensure => installed,
+		
+
 }
-	
+}
+
+		
 
 
