@@ -6,9 +6,6 @@ node default {
 
 	}
 }
-
-node server0 { 
-	file {' Apache':
 	
 
 
